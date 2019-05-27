@@ -1,4 +1,3 @@
-# Question at SO
 https://stackoverflow.com/questions/56322038/why-does-performance-drop-when-a-function-is-moved-to-another-module
 
 # Building and running
